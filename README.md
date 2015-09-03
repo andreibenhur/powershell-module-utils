@@ -1,1 +1,1 @@
-# powershell-module-utils
+# powershell-utils
