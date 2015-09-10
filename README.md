@@ -2,10 +2,11 @@
 
 This first powershell module is my way to pratice and learn about it a little. This son of a gun is (a lot) trickier than it looks.
 
-The main idea is: create some powershell functions to help me handle Environment Variable through command line -- permanently.
+The main idea is: create some powershell functions to help me handle Environment Variable through command line -- permanently. Give me itch everytime I have to check, edit or add an Environment Variable through Windows UI. I already used the "systempropertiesadvanced" keyword shortcut in the Run window (it opens the System Properties window directly) but it was not enough. :disappointed:
 
-I kinda have something like milestones.. but I will not put it here.
+I kinda have something like milestones.. but I will put it here later.
 
+Let the forking begin! 
 
 ## Functions to handle PATH EnvVar
 
